@@ -6,6 +6,7 @@ import withRoot from './withRoot';
 // import IconsDemo from './demo/03/IconsDemo';
 // import { GridDemo1, GridDemo2, GridDemo3, GridDemo4, GridDemo5, MediaQueryDemo } from './demo/04';
 // import ModalDemo from './demo/05/ModalDemo';
+// import { CollapseDemo, FadeDemo, GrowDemo, ZoomDemo, SlideDemo } from './demo/06';
 
 class App extends Component {
   render() {
@@ -17,7 +18,19 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <ModalDemo /> */}
+        {/* <CollapseDemo />
+
+        <hr />
+        <FadeDemo />
+
+        <hr />
+        <GrowDemo />
+
+        <hr />
+        <ZoomDemo />
+
+        <hr />
+        <SlideDemo /> */}
 
       </Fragment>
     );
