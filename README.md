@@ -35,5 +35,8 @@
 * Material-UI Media Queries: https://material-ui.com/layout/breakpoints/#media-queries
 * Material-UI Media Query helpers: https://material-ui.com/layout/breakpoints/#theme-breakpoints-up-key---media-query
 
+## Components
+* Modal: https://material-ui.com/utils/modal/
+
 ## Miscellaneous
 * Using `withStyles` and `withTheme` together: https://material-ui.com/getting-started/faq/#how-do-i-combine-the-withstyles---and-withtheme---hocs-
