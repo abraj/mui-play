@@ -37,6 +37,9 @@
 
 ## Components
 * Modal: https://material-ui.com/utils/modal/
+* Transitions (Collapse, Fade, Grow, Zoom, Slide): https://material-ui.com/utils/transitions/
+* Popover [Anchor playground]: https://material-ui.com/utils/popover/#anchor-playground
+* Popper: https://material-ui.com/utils/popper/
 
 ## Miscellaneous
 * Using `withStyles` and `withTheme` together: https://material-ui.com/getting-started/faq/#how-do-i-combine-the-withstyles---and-withtheme---hocs-
