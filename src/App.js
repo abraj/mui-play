@@ -4,6 +4,7 @@ import withRoot from './withRoot';
 // import TypographyDemo from './demo/01/TypographyDemo';
 // import { StylesDemo1, StylesDemo2, StylesDemo3 } from './demo/02';
 // import IconsDemo from './demo/03/IconsDemo';
+// import AvatarDemo from './demo/03/AvatarDemo';
 // import { GridDemo1, GridDemo2, GridDemo3, GridDemo4, GridDemo5, MediaQueryDemo } from './demo/04';
 // import { ModalDemo, PopoverDemo1, PopoverDemo2, PopperDemo1, PopperDemo2 } from './demo/05';
 // import { CollapseDemo, FadeDemo, GrowDemo, ZoomDemo, SlideDemo } from './demo/06';
@@ -19,7 +20,7 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <AppBarDemo13 /> */}
+        {/* <AvatarDemo /> */}
       </div>
     );
   }
