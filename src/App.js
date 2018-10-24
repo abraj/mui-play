@@ -8,6 +8,7 @@ import withRoot from './withRoot';
 // import { CollapseDemo, FadeDemo, GrowDemo, ZoomDemo, SlideDemo } from './demo/05';
 // import { AppBarDemo01, AppBarDemo02, AppBarDemo03, AppBarDemo04, AppBarDemo11, AppBarDemo12, AppBarDemo13 } from './demo/06';
 // import { BadgeDemo } from './demo/07';
+// import { ButtonDemo, ButtonLinkDemo } from './demo/08';
 
 class App extends Component {
   render() {
@@ -19,7 +20,7 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <BadgeDemo /> */}
+        {/* <ButtonLinkDemo /> */}
       </div>
     );
   }
