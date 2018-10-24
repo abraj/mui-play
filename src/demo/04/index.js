@@ -1,6 +1,5 @@
-export {default as GridDemo1} from './GridDemo1';
-export {default as GridDemo2} from './GridDemo2';
-export {default as GridDemo3} from './GridDemo3';
-export {default as GridDemo4} from './GridDemo4';
-export {default as GridDemo5} from './GridDemo5';
-export {default as MediaQueryDemo} from './MediaQueryDemo';
+export { default as ModalDemo } from './ModalDemo';
+export { default as PopoverDemo1 } from './PopoverDemo1';
+export { default as PopoverDemo2 } from './PopoverDemo2';
+export { default as PopperDemo1 } from './PopperDemo1';
+export { default as PopperDemo2 } from './PopperDemo2';
