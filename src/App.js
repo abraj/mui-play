@@ -13,6 +13,7 @@ import withRoot from './withRoot';
 // import { ChipDemo } from './demo/10';
 // import { DialogDemo1, DialogDemo2, DialogDemo3 } from './demo/11';
 // import { DividerDemo1, DividerDemo2 } from './demo/12';
+// import { DrawerDemo } from './demo/13';
 
 class App extends Component {
   render() {
@@ -24,7 +25,7 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <DividerDemo2 /> */}
+        {/* <DrawerDemo /> */}
       </div>
     );
   }
