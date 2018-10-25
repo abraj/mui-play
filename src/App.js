@@ -11,6 +11,7 @@ import withRoot from './withRoot';
 // import { ButtonDemo, ButtonLinkDemo } from './demo/08';
 // import { CardDemo1, CardDemo2, CardDemo3 } from './demo/09';
 // import { ChipDemo } from './demo/10';
+// import { DialogDemo1, DialogDemo2, DialogDemo3 } from './demo/11';
 
 class App extends Component {
   render() {
@@ -22,7 +23,7 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <ChipDemo /> */}
+        {/* <DialogDemo3 /> */}
       </div>
     );
   }
