@@ -1,2 +1,1 @@
-export {default as ButtonDemo} from './ButtonDemo';
-export {default as ButtonLinkDemo} from './ButtonLinkDemo';
+export {default as BadgeDemo} from './BadgeDemo';

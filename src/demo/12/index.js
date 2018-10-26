@@ -1,2 +1,3 @@
-export {default as DividerDemo1} from './DividerDemo1';
-export {default as DividerDemo2} from './DividerDemo2';
+export {default as DialogDemo1} from './DialogDemo1';
+export {default as DialogDemo2} from './DialogDemo2';
+export {default as DialogDemo3} from './DialogDemo3';
