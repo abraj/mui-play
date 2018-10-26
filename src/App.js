@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Typography from '@material-ui/core/Typography';
 import withRoot from './withRoot';
 // import { Todo } from './demo/99';
-// import { TypographyDemo, StylesDemo1, StylesDemo2, StylesDemo3 } from './demo/01';
+// import { TypographyDemo, PaperDemo, StylesDemo1, StylesDemo2, StylesDemo3 } from './demo/01';
 // import { IconsDemo, AvatarDemo } from './demo/02';
 // import { GridDemo1, GridDemo2, GridDemo3, GridDemo4, GridDemo5, MediaQueryDemo } from './demo/03';
 // import { ListDemo1, ListDemo2, ListDemo3, ListDemo4, ListDemo5 } from './demo/04';
@@ -27,7 +27,7 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <MenuDemo3 /> */}
+        {/* <PaperDemo /> */}
       </div>
     );
   }
