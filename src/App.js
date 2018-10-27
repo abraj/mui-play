@@ -16,6 +16,7 @@ import withRoot from './withRoot';
 // import { DialogDemo1, DialogDemo2, DialogDemo3 } from './demo/12';
 // import { DividerDemo1, DividerDemo2 } from './demo/13';
 // import { DrawerDemo } from './demo/14';
+// import { ProgressDemo1, ProgressDemo2, ProgressDemo3 } from './demo/15';
 
 class App extends Component {
   render() {
@@ -27,7 +28,7 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <PaperDemo /> */}
+        {/* <ProgressDemo3 /> */}
       </div>
     );
   }
