@@ -18,6 +18,7 @@ import withRoot from './withRoot';
 // import { DrawerDemo } from './demo/14';
 // import { ProgressDemo1, ProgressDemo2, ProgressDemo3 } from './demo/15';
 // import { CheckboxDemo1, CheckboxDemo2, RadioButtonDemo1, RadioButtonDemo2, SwitchDemo1, SwitchDemo2, SwitchDemo3, SwitchDemo4 } from './demo/16';
+// import { SelectDemo1, SelectDemo2, SelectDemo3 } from './demo/17';
 
 class App extends Component {
   render() {
@@ -29,7 +30,7 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <CheckboxDemo1 /> */}
+        {/* <SelectDemo3 /> */}
       </div>
     );
   }
