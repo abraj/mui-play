@@ -19,6 +19,7 @@ import withRoot from './withRoot';
 // import { ProgressDemo1, ProgressDemo2, ProgressDemo3 } from './demo/15';
 // import { CheckboxDemo1, CheckboxDemo2, RadioButtonDemo1, RadioButtonDemo2, SwitchDemo1, SwitchDemo2, SwitchDemo3, SwitchDemo4 } from './demo/16';
 // import { SelectDemo1, SelectDemo2, SelectDemo3 } from './demo/17';
+// import { SnackbarDemo1, SnackbarDemo2, SnackbarDemo3, SnackbarDemo4 } from './demo/18';
 
 class App extends Component {
   render() {
@@ -30,7 +31,7 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <SelectDemo3 /> */}
+        {/* <SnackbarDemo4 /> */}
       </div>
     );
   }

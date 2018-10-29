@@ -17,6 +17,10 @@ class Todo extends Component {
         <Typography variant="h5">Pickers</Typography>
         <Typography><a href="https://material-ui.com/demos/pickers/#pickers">https://material-ui.com/demos/pickers/#pickers</a></Typography>
 
+        <br />
+        <Typography variant="h5">Steppers</Typography>
+        <Typography><a href="https://material-ui.com/demos/steppers/#steppers">https://material-ui.com/demos/steppers/#steppers</a></Typography>
+
       </div>
     );
   }
