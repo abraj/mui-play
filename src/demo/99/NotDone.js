@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Typography from '@material-ui/core/Typography';
 
-class Todo extends Component {
+class NotDone extends Component {
   render() {
     return (
       <div>
@@ -26,4 +26,4 @@ class Todo extends Component {
   }
 }
 
-export default Todo;
+export default NotDone;
