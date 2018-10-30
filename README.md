@@ -1,6 +1,6 @@
 # mui-play
 
-[Demo Webpage]('demo/index.html')
+[Demo Index](build/index.html)
 
 ## Getting started
 * Install Material-UI: https://material-ui.com/getting-started/installation/#npm
