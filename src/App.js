@@ -21,6 +21,7 @@ import withRoot from './withRoot';
 // import { SelectDemo1, SelectDemo2, SelectDemo3 } from './demo/17';
 // import { SnackbarDemo1, SnackbarDemo2, SnackbarDemo3, SnackbarDemo4 } from './demo/18';
 // import { TableDemo1, TableDemo2 } from './demo/19';
+// import { TabDemo1, TabDemo2, TabDemo3, TabDemo4 } from './demo/20';
 
 class App extends Component {
   render() {
@@ -32,7 +33,7 @@ class App extends Component {
         </div>
         <hr />
 
-        {/* <TableDemo2 /> */}
+        {/* <TabDemo4 /> */}
       </div>
     );
   }
