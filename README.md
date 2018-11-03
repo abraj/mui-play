@@ -1,7 +1,5 @@
 # mui-play
 
-[Demo Index](build/index.html)
-
 ## Getting started
 * Install Material-UI: https://material-ui.com/getting-started/installation/#npm
 * Install SVG Icons: https://material-ui.com/getting-started/installation/#svg-icons
@@ -42,6 +40,26 @@
 * Transitions (Collapse, Fade, Grow, Zoom, Slide): https://material-ui.com/utils/transitions/
 * Popover [Anchor playground]: https://material-ui.com/utils/popover/#anchor-playground
 * Popper: https://material-ui.com/utils/popper/
+* AppBar > Toolbar: https://material-ui.com/demos/app-bar/
+* Badge: https://material-ui.com/demos/badges/
+* Button: https://material-ui.com/demos/buttons/
+* Card: https://material-ui.com/demos/cards/
+* Chip: https://material-ui.com/demos/chips/
+* Dialog: https://material-ui.com/demos/dialogs/
+* Divider: https://material-ui.com/demos/dividers/
+* Drawer: https://material-ui.com/demos/drawers/
+* Progress: https://material-ui.com/demos/progress/
+* Selection Controls (Checkbox, Radio, Switch): https://material-ui.com/demos/selection-controls/
+* Select: https://material-ui.com/demos/selects/
+* Snackbar: https://material-ui.com/demos/snackbars/
+* Table: https://material-ui.com/demos/tables/
+* Tab: https://material-ui.com/demos/tabs/
+* TextField: https://material-ui.com/demos/text-fields/
+* Tooltip: https://material-ui.com/demos/tooltips/
 
 ## Miscellaneous
 * Using `withStyles` and `withTheme` together: https://material-ui.com/getting-started/faq/#how-do-i-combine-the-withstyles---and-withtheme---hocs-
+* Example Projects
+  * https://material-ui.com/getting-started/example-projects/
+  * https://github.com/mui-org/material-ui/tree/master/examples/create-react-app
+* FAQs: https://material-ui.com/getting-started/faq/
